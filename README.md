@@ -1,4 +1,4 @@
-# Qucik setup
+# Quick setup
 
 >Navigate to where you want to setup the Project 
 
